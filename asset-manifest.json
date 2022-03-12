@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactLoginPage/static/css/main.1980c650.chunk.css",
+    "main.css": "/reactLoginPage/static/css/main.e0ec700a.chunk.css",
     "main.js": "/reactLoginPage/static/js/main.4bfe3bb4.chunk.js",
     "main.js.map": "/reactLoginPage/static/js/main.4bfe3bb4.chunk.js.map",
     "runtime-main.js": "/reactLoginPage/static/js/runtime-main.2ebe50c3.js",
@@ -10,13 +10,13 @@
     "static/js/3.b6920c8f.chunk.js": "/reactLoginPage/static/js/3.b6920c8f.chunk.js",
     "static/js/3.b6920c8f.chunk.js.map": "/reactLoginPage/static/js/3.b6920c8f.chunk.js.map",
     "index.html": "/reactLoginPage/index.html",
-    "static/css/main.1980c650.chunk.css.map": "/reactLoginPage/static/css/main.1980c650.chunk.css.map",
+    "static/css/main.e0ec700a.chunk.css.map": "/reactLoginPage/static/css/main.e0ec700a.chunk.css.map",
     "static/js/2.ac26fe93.chunk.js.LICENSE.txt": "/reactLoginPage/static/js/2.ac26fe93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2ebe50c3.js",
     "static/js/2.ac26fe93.chunk.js",
-    "static/css/main.1980c650.chunk.css",
+    "static/css/main.e0ec700a.chunk.css",
     "static/js/main.4bfe3bb4.chunk.js"
   ]
 }
