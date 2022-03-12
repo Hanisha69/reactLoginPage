@@ -87,6 +87,13 @@ code {
   color:#b56d19;
   box-shadow: 10px 10px 19px #1c1e22,-10px -10px 19px #262a2e, inset 21px 21px 19px #181a1d, inset -21px -21px 19px #202225, 1px 4px 2px -3px rgba(0, 0, 0, 0.7) inset, -1px -3px 3px -2px rgba(255, 255, 255, 0.2) inset;
 } 
+@media screen and (max-width: 450px){
+  .login-container{
+      width: 96%;
+      left: 2%;
+  }
+  
+}
 @media screen and (max-width: 750px){
   .login-container{
       width: 80%;
@@ -98,8 +105,7 @@ code {
   .login-container{
       width: 50%;
       left: 25%;
-  }
-  
+  } 
 }
 form{
   width: 100%;
