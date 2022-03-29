@@ -3,8 +3,50 @@ import Icon from './icons';
 const Img = ()=>{
     return(
         <div className="img">
-            <Icon/>
-            <Icon/>
+            <div>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+        </div>
+        <div>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i" />
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+            <FontAwesomeIcon icon={faGamepad}  className="i"/>
+        </div>
         </div>
     );
 }
